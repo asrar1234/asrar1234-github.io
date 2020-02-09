@@ -1,0 +1,58 @@
+body {
+  background-image: url("img_tree.gif"), url("paper.gif");
+  background-color: #cccccc;
+}
+
+
+
+
+
+p.normal {
+  font-weight: normal;
+}
+
+p.thick {
+  font-weight: bold;
+}
+
+p.thicker {
+  font-weight: 900;
+}
+
+ <p style="text-align:right"><h1>  Beginner in web development M<h1>.</p>
+}
+  background-color: black 
+	;
+}
+
+
+body {
+  color: blue;
+}
+
+h1 {
+  color: red;
+#grad1 {
+  height: 200px;
+  background-color: #cccccc;
+  background-image: ;
+}
+<div class=container4>
+  <p>Centered!
+</div>
+div.container4 {
+    height: 10em;
+    position: relative }
+div.container4 p {
+    margin: 0;
+    background: yellow;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
